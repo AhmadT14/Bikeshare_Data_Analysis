@@ -20,7 +20,7 @@ This project involved analyzing bikeshare data from **Chicago, New York City, an
 The `.csv` data files (`chicago.csv`, `new_york_city.csv`, `washington.csv`) used in this project are provided exclusively as part of Udacity's coursework.     
 
 ## **Udacity Project Completion 🖼️**
-![Screenshot 2025-03-30 085403](https://github.com/user-attachments/assets/11ef025c-b152-49ca-b3a5-39e00ecaecaf)
+![image](https://github.com/user-attachments/assets/6b5a7a7f-bd54-4b2d-a7df-4e4b7d50809a)
 
 ## **Technologies Used 🛠️**
 - **Python (Pandas, NumPy)**   
